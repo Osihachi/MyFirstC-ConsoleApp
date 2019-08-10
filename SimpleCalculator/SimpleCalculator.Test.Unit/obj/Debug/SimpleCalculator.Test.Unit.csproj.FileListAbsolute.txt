@@ -1,0 +1,7 @@
+c:\users\t1434\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.dll
+c:\users\t1434\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.pdb
+c:\users\t1434\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.exe
+c:\users\t1434\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.pdb
+c:\users\t1434\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csprojResolveAssemblyReference.cache
+c:\users\t1434\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.dll
+c:\users\t1434\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.pdb
